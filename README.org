@@ -1,0 +1,6 @@
+#+TITLE: Gameboy
+#+AUTHOR: Ian Kollipara
+#+EMAIL: ian.kollipara@gmail.com
+
+* Summary
+This is an implementation of the Nintendo Gameboy written in 2001-compatible Verilog. The project does not claim to be efficent or well-written, but instead a learning exercise for myself in regards to Verilog.
